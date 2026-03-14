@@ -86,15 +86,11 @@ Issue                   | Cause                       | Solution
 
 ⚠️ This tool is developed for educational and ethical testing purposes only. The author is not responsible for any misuse or legal consequences. Use responsibly and comply with all applicable laws.
 
-## 🌎 Find Me on
+## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-Aarav-white?style=for-the-badge&logo=github)](https://github.com/Ap1311/)
+- [![Github](https://img.shields.io/badge/Github-Aarav-white?style=for-the-badge&logo=github)](https://github.com/aaravshah1311/)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-Aarav-red?style=for-the-badge&logo=gmail)](mailto:aaravprogrammers@gmail.com)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-Aarav-skyblue?style=for-the-badge&logo=telegram)](https://t.me/aaravprogrammers)
-  
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Aarav-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+919429252709)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Aarav-red?style=for-the-badge)](https://aaravshah1311.is-great.net)
 
 
 
